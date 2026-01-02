@@ -29,5 +29,5 @@ This is where I apply theory to practice. So far, these are mostly academic assi
 Open for discussion, advice on my endeavors, and collaboration opportunities.
 
 *   **Email:** g.kantsiber@bk.ru
+*   **Kaggle:** - https://www.kaggle.com/lock812
 *   **Telegram:** -
-*   **LinkedIn:** -
