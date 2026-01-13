@@ -30,4 +30,3 @@ Open for discussion, advice on my endeavors, and collaboration opportunities.
 
 *   **Email:** g.kantsiber@bk.ru
 *   **Kaggle:** - https://www.kaggle.com/lock812
-*   **Telegram:** -
