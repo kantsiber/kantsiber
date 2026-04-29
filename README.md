@@ -6,7 +6,7 @@ My main professional passion is **Machine Learning** and **Deep Learning**, and 
 
 ## 🏗️ My Projects (academic and in progress)
 
-*   **Classical ML tasks:** Worked with the basics on the `Iris` and `Titanic` datasets. Understand the full cycle: from data processing to model selection.
+*   **Classical machine learning tasks:** working with basic datasets such as `Iris` and `Titanic`, as well as working with datasets from open competitions on Kaggle. Understanding the full cycle, from data processing to model selection.
 *   **Neural network for audio emotion classification (in progress):** A university project. First experience working with neural networks and audio processing.
 *   **Kaggle:** Currently just exploring the platform. The immediate goal is to figure out how to properly format solutions and participate in the first competition.
 
