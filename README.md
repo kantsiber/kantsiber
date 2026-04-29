@@ -23,4 +23,4 @@ My main professional passion is **Machine Learning** and **Deep Learning**, and 
 Open for discussion, advice on my endeavors, and collaboration opportunities.
 
 *   **Email:** g.kantsiber@bk.ru
-*   **Kaggle:** - https://www.kaggle.com/lock812
+*   **Kaggle:** https://www.kaggle.com/lock812
