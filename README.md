@@ -16,9 +16,6 @@ My main professional passion is **Machine Learning** and **Deep Learning**, and 
 **ML/DL:** scikit-learn, PyTorch, pandas, numpy, matplotlib/seaborn  
 **Tools:** Jupyter Notebook, VS Code, PyCharm
 
-## 📈 Goals and Plans
-**Now:** Consolidate skills through practical tasks. Convert academic projects into public repositories.
-
 ## 📫 Contact Me
 Open for discussion, advice on my endeavors, and collaboration opportunities.
 
