@@ -14,7 +14,7 @@ My main professional passion is **Machine Learning** and **Deep Learning**, and 
 ## 🛠️ Technologies and Skills
 **Languages:** Python, Matlab, C++, SQL
 
-**ML/DL:** scikit-learn, PyTorch, pandas, numpy, matplotlib/seaborn, LightGBM, Catboost
+**ML/DL:** scikit-learn, PyTorch, pandas, numpy, matplotlib/seaborn, LightGBM, Catboost, FastAPI
 
 **Tools:** Jupyter Notebook, VS Code, PyCharm, Docker, Git
 
