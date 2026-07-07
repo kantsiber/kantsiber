@@ -1,7 +1,7 @@
 # Hi, my name is George 👋
 
 ## About Me
-I am a 2nd year student majoring in "Information and Analytical Security Systems".
+I am a 3nd year student majoring in "Information and Analytical Security Systems".
 My main professional passion is **Machine Learning** and **Deep Learning**, and I am purposefully developing towards the role of ML Engineer.
 
 ## 🏗️ My Projects (academic and in progress)
